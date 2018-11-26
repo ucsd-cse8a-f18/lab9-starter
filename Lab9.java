@@ -12,13 +12,4 @@ class Lab9 {
 
     }
 
-    // Activity 2
-    /* public static void printTriangle(int length) {
-        for (int i = 0; i < <BLANK1>; i += 1) {
-            for (int j = 0; j < <BLANK2>; j += 1) {
-                <BLANK3>
-            }
-            <BLANK4>
-        }
-    } */
 }
